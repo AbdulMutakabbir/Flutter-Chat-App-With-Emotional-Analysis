@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488559458575",
+    "firebase_url": "https://yaas-129a1.firebaseio.com",
+    "project_id": "yaas-129a1",
+    "storage_bucket": "yaas-129a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488559458575:android:cea87eeeb9b7953fe6a67a",
+        "android_client_info": {
+          "package_name": "com.yass.yaas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488559458575-30bltl045spo1p420hit4thksld63s37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yass.yaas_app",
+            "certificate_hash": "a91a34a0a64cf4be1cd474a4932f18fcd42554db"
+          }
+        },
+        {
+          "client_id": "488559458575-pf5dldffu5005jjgv0jtekrqc1n1scbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_u3xf6Ji4tsbj8BffVG5z2jTfviXsOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488559458575-pf5dldffu5005jjgv0jtekrqc1n1scbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
